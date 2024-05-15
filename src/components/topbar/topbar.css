@@ -6,6 +6,7 @@
     position: sticky;
     align-items: center;
     top: 0;
+    z-index: 999;
 }
 .logo{
     font-size: 24px;
