@@ -1,6 +1,6 @@
-import './closeFriend.css'
+import './closeFriends.css'
 
-export default function CloseFriend({user}) {
+export default function CloseFriends({user}) {
   return (
     <div>
          <li className="sidebarFriend">
